@@ -1,6 +1,7 @@
 # Resumo-do-Lab-AZURE
 Este repositório contém o resumo do tópico "Localizando Serviços por Categoria" durante o desenvolvimento do lab na DIO
 
+-----------------------------------------
 O Azure é como um shopping online gigante.
 Dentro dele, existem várias lojas diferentes:
 
@@ -13,6 +14,8 @@ Loja de redes (para ligar tudo).
 Loja de bancos de dados (cadernos digitais cheios de informações).
 
 Loja de inteligência artificial (máquinas que aprendem).
+
+-----------------------------------------------------
 
 O portal do Azure é a entrada do shopping:
 
