@@ -39,7 +39,7 @@ Aperta Criar.
 Tudo o que você pegar fica em pastas chamadas Grupos de Recursos.
 E você pode marcar seus favoritos para achar mais rápido.
 
-👉 Em resumo: O Azure é um shopping de serviços na nuvem.
+Resumo: O Azure é um shopping de serviços na nuvem.
 Você entra, escolhe, cria e organiza do jeito que quiser.
 Conclusão
 Localizar e criar serviços por categoria no Azure é uma habilidade essencial para profissionais que desejam utilizar a nuvem de forma eficiente. O portal oferece uma experiência intuitiva e rica em recursos para facilitar esse processo.
